@@ -29,4 +29,4 @@ Você pode acessar os arquivos e visualizar o modelo diretamente aqui no GitHub.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cloud-cafe.git
+   git clone https://github.com/seu-usuario/Proj-Cafe.git
