@@ -1,6 +1,9 @@
 # ☁️ Cloud Café
 
 Bem-vindo ao repositório do **Cloud Café**, um projeto de esboço de site desenvolvido para uma cafeteria fictícia com foco em design acolhedor e navegação simples.
+<br><br>
+<img src="[https://github.com/leochg2021/Proj_Cafe/blob/main/img/Note_Mockup.png?raw=true]">
+<br>
 
 ## 📌 Descrição do Projeto
 
